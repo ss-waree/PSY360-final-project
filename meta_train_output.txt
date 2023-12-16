@@ -1,0 +1,82 @@
+2023-12-06 20:04:14,854 INFO     Namespace(alpha=2.0, b=3.0, beta_0=0.2, beta_1=0.8, dataset='marble', dropout=0.1, epochs_per_episode=1, eval=False, eval_every=100, eval_marble=False, eval_table3=False, eval_valid=False, inner_lr=0.1, learning_rate=0.0005, log_dir='logs/', lr_decay_patience=None, lr_scheduler_type='cosine', marble_n_runs=100, max_n_features=1, max_n_train=9, min_n_features=1, min_n_train=9, model_name='a_2.0_0.2_0.8_0', multi_step_loss=False, n_epochs=1, n_hidden=128, n_layer=5, n_meta_test=100, n_meta_train=10000, n_meta_valid=100, no_true_false_top=True, num_black=10, num_white=10, patience=None, pseudo=False, reject_sampling=True, table3_n_runs=100, train_batch_size=1, warmup_proportion=0.05, weight_decay=0.1, weight_dir='weights/')
+2023-12-06 20:04:14,854 INFO     Namespace(alpha=0.5, b=3.0, beta_0=0.5, beta_1=0.5, dataset='marble', dropout=0.1, epochs_per_episode=1, eval=False, eval_every=100, eval_marble=False, eval_table3=False, eval_valid=False, inner_lr=0.1, learning_rate=0.0005, log_dir='logs/', lr_decay_patience=None, lr_scheduler_type='cosine', marble_n_runs=100, max_n_features=1, max_n_train=9, min_n_features=1, min_n_train=9, model_name='a_0.5_0.5_0.5_0', multi_step_loss=False, n_epochs=1, n_hidden=128, n_layer=5, n_meta_test=100, n_meta_train=10000, n_meta_valid=100, no_true_false_top=True, num_black=10, num_white=10, patience=None, pseudo=False, reject_sampling=True, table3_n_runs=100, train_batch_size=1, warmup_proportion=0.05, weight_decay=0.1, weight_dir='weights/')
+2023-12-06 20:04:14,854 INFO     Namespace(alpha=2.0, b=3.0, beta_0=0.8, beta_1=0.2, dataset='marble', dropout=0.1, epochs_per_episode=1, eval=False, eval_every=100, eval_marble=False, eval_table3=False, eval_valid=False, inner_lr=0.1, learning_rate=0.0005, log_dir='logs/', lr_decay_patience=None, lr_scheduler_type='cosine', marble_n_runs=100, max_n_features=1, max_n_train=9, min_n_features=1, min_n_train=9, model_name='a_2.0_0.8_0.2_0', multi_step_loss=False, n_epochs=1, n_hidden=128, n_layer=5, n_meta_test=100, n_meta_train=10000, n_meta_valid=100, no_true_false_top=True, num_black=10, num_white=10, patience=None, pseudo=False, reject_sampling=True, table3_n_runs=100, train_batch_size=1, warmup_proportion=0.05, weight_decay=0.1, weight_dir='weights/')
+2023-12-06 20:04:14,854 INFO     Namespace(alpha=10.0, b=3.0, beta_0=0.8, beta_1=0.2, dataset='marble', dropout=0.1, epochs_per_episode=1, eval=False, eval_every=100, eval_marble=False, eval_table3=False, eval_valid=False, inner_lr=0.1, learning_rate=0.0005, log_dir='logs/', lr_decay_patience=None, lr_scheduler_type='cosine', marble_n_runs=100, max_n_features=1, max_n_train=9, min_n_features=1, min_n_train=9, model_name='a_10.0_0.8_0.2_0', multi_step_loss=False, n_epochs=1, n_hidden=128, n_layer=5, n_meta_test=100, n_meta_train=10000, n_meta_valid=100, no_true_false_top=True, num_black=10, num_white=10, patience=None, pseudo=False, reject_sampling=True, table3_n_runs=100, train_batch_size=1, warmup_proportion=0.05, weight_decay=0.1, weight_dir='weights/')
+2023-12-06 20:04:14,854 INFO     Namespace(alpha=0.5, b=3.0, beta_0=0.8, beta_1=0.2, dataset='marble', dropout=0.1, epochs_per_episode=1, eval=False, eval_every=100, eval_marble=False, eval_table3=False, eval_valid=False, inner_lr=0.1, learning_rate=0.0005, log_dir='logs/', lr_decay_patience=None, lr_scheduler_type='cosine', marble_n_runs=100, max_n_features=1, max_n_train=9, min_n_features=1, min_n_train=9, model_name='a_0.5_0.8_0.2_0', multi_step_loss=False, n_epochs=1, n_hidden=128, n_layer=5, n_meta_test=100, n_meta_train=10000, n_meta_valid=100, no_true_false_top=True, num_black=10, num_white=10, patience=None, pseudo=False, reject_sampling=True, table3_n_runs=100, train_batch_size=1, warmup_proportion=0.05, weight_decay=0.1, weight_dir='weights/')
+2023-12-06 20:04:14,856 INFO     Namespace(alpha=0.5, b=3.0, beta_0=0.2, beta_1=0.8, dataset='marble', dropout=0.1, epochs_per_episode=1, eval=False, eval_every=100, eval_marble=False, eval_table3=False, eval_valid=False, inner_lr=0.1, learning_rate=0.0005, log_dir='logs/', lr_decay_patience=None, lr_scheduler_type='cosine', marble_n_runs=100, max_n_features=1, max_n_train=9, min_n_features=1, min_n_train=9, model_name='a_0.5_0.2_0.8_0', multi_step_loss=False, n_epochs=1, n_hidden=128, n_layer=5, n_meta_test=100, n_meta_train=10000, n_meta_valid=100, no_true_false_top=True, num_black=10, num_white=10, patience=None, pseudo=False, reject_sampling=True, table3_n_runs=100, train_batch_size=1, warmup_proportion=0.05, weight_decay=0.1, weight_dir='weights/')
+2023-12-06 20:04:14,857 INFO     Namespace(alpha=2.0, b=3.0, beta_0=0.5, beta_1=0.5, dataset='marble', dropout=0.1, epochs_per_episode=1, eval=False, eval_every=100, eval_marble=False, eval_table3=False, eval_valid=False, inner_lr=0.1, learning_rate=0.0005, log_dir='logs/', lr_decay_patience=None, lr_scheduler_type='cosine', marble_n_runs=100, max_n_features=1, max_n_train=9, min_n_features=1, min_n_train=9, model_name='a_2.0_0.5_0.5_0', multi_step_loss=False, n_epochs=1, n_hidden=128, n_layer=5, n_meta_test=100, n_meta_train=10000, n_meta_valid=100, no_true_false_top=True, num_black=10, num_white=10, patience=None, pseudo=False, reject_sampling=True, table3_n_runs=100, train_batch_size=1, warmup_proportion=0.05, weight_decay=0.1, weight_dir='weights/')
+2023-12-06 20:04:14,864 INFO     Model size: 0.1M parameters
+2023-12-06 20:04:14,869 INFO     Model size: 0.1M parameters
+2023-12-06 20:04:14,869 INFO     Model size: 0.1M parameters
+2023-12-06 20:04:14,869 INFO     Model size: 0.1M parameters
+2023-12-06 20:04:14,869 INFO     Model size: 0.1M parameters
+2023-12-06 20:04:14,869 INFO     Model size: 0.1M parameters
+2023-12-06 20:04:14,872 INFO     Model size: 0.1M parameters
+2023-12-06 20:17:58,275 INFO     Validation loss: 0.5728157848119736
+2023-12-06 20:17:58,278 INFO     Validation accuracy: 0.7466666814684868
+2023-12-06 20:17:58,278 INFO     Saving model checkpoint to weights/
+2023-12-06 20:17:58,379 INFO     Training step 0 out of 10000; Epoch 0; Learning rate: 0.0
+2023-12-06 20:18:18,822 INFO     Validation loss: 0.39712834447622297
+2023-12-06 20:18:18,823 INFO     Validation accuracy: 0.9055555602908134
+2023-12-06 20:18:18,823 INFO     Saving model checkpoint to weights/
+2023-12-06 20:18:18,826 INFO     Training step 0 out of 10000; Epoch 0; Learning rate: 0.0
+2023-12-06 20:34:07,032 INFO     Validation loss: 0.48128601282835004
+2023-12-06 20:34:07,038 INFO     Validation accuracy: 0.8422222316265107
+2023-12-06 20:34:07,038 INFO     Saving model checkpoint to weights/
+2023-12-06 20:34:07,044 INFO     Training step 0 out of 10000; Epoch 0; Learning rate: 0.0
+2023-12-06 20:47:44,243 INFO     Validation loss: 0.5269038900732994
+2023-12-06 20:47:44,244 INFO     Validation accuracy: 0.8188888996839523
+2023-12-06 20:47:44,244 INFO     Saving model checkpoint to weights/
+2023-12-06 20:47:44,362 INFO     Training step 0 out of 10000; Epoch 0; Learning rate: 0.0
+2023-12-06 20:50:53,982 INFO     Validation loss: 0.4240507581830025
+2023-12-06 20:50:53,983 INFO     Validation accuracy: 0.873333340883255
+2023-12-06 20:50:53,983 INFO     Saving model checkpoint to weights/
+2023-12-06 20:50:53,987 INFO     Training step 0 out of 10000; Epoch 0; Learning rate: 0.0
+2023-12-06 20:53:59,931 INFO     Validation loss: 0.3773993965983391
+2023-12-06 20:53:59,932 INFO     Validation accuracy: 0.9322222262620926
+2023-12-06 20:53:59,932 INFO     Saving model checkpoint to weights/
+2023-12-06 20:53:59,948 INFO     Training step 0 out of 10000; Epoch 0; Learning rate: 0.0
+2023-12-06 20:56:01,077 INFO     Validation loss: 0.3738055807352066
+2023-12-06 20:56:01,078 INFO     Validation accuracy: 0.922222226858139
+2023-12-06 20:56:01,078 INFO     Saving model checkpoint to weights/
+2023-12-06 20:56:01,091 INFO     Training step 0 out of 10000; Epoch 0; Learning rate: 0.0
+2023-12-06 21:23:17,031 INFO     Validation loss: 0.5445689781010151
+2023-12-06 21:23:17,031 INFO     Validation accuracy: 0.7455555701255798
+2023-12-06 21:23:17,031 INFO     Saving model checkpoint to weights/
+2023-12-06 21:23:17,070 INFO     Training step 100 out of 10000; Epoch 0; Learning rate: 0.0001
+2023-12-06 21:58:55,951 INFO     Validation loss: 0.22358967926353215
+2023-12-06 21:58:55,952 INFO     Validation accuracy: 0.9044444489479065
+2023-12-06 21:58:55,952 INFO     Saving model checkpoint to weights/
+2023-12-06 21:58:55,990 INFO     Training step 100 out of 10000; Epoch 0; Learning rate: 0.0001
+2023-12-06 22:28:03,135 INFO     Validation loss: 0.28929324947297574
+2023-12-06 22:28:03,135 INFO     Validation accuracy: 0.8677777841687202
+2023-12-06 22:28:03,136 INFO     Saving model checkpoint to weights/
+2023-12-06 22:28:03,161 INFO     Training step 100 out of 10000; Epoch 0; Learning rate: 0.0001
+2023-12-06 22:34:08,454 INFO     Validation loss: 0.1573102472908795
+2023-12-06 22:34:08,455 INFO     Validation accuracy: 0.9322222262620926
+2023-12-06 22:34:08,455 INFO     Saving model checkpoint to weights/
+2023-12-06 22:34:08,498 INFO     Training step 100 out of 10000; Epoch 0; Learning rate: 0.0001
+2023-12-06 22:57:50,410 INFO     Validation loss: 0.48704277865588663
+2023-12-06 22:57:50,411 INFO     Validation accuracy: 0.8155555662512779
+2023-12-06 22:57:50,411 INFO     Saving model checkpoint to weights/
+2023-12-06 22:57:50,421 INFO     Training step 100 out of 10000; Epoch 0; Learning rate: 0.0001
+2023-12-06 23:04:39,514 INFO     Validation loss: 0.37369816038757564
+2023-12-06 23:04:39,515 INFO     Validation accuracy: 0.8411111202836037
+2023-12-06 23:04:39,515 INFO     Saving model checkpoint to weights/
+2023-12-06 23:04:39,540 INFO     Training step 100 out of 10000; Epoch 0; Learning rate: 0.0001
+2023-12-06 23:25:10,639 INFO     Validation loss: 0.1895240567997098
+2023-12-06 23:25:10,639 INFO     Validation accuracy: 0.9211111155152321
+2023-12-06 23:25:10,640 INFO     Saving model checkpoint to weights/
+2023-12-06 23:25:10,669 INFO     Training step 100 out of 10000; Epoch 0; Learning rate: 0.0001
+2023-12-06 23:38:14,116 INFO     Validation loss: 0.5455404465645551
+2023-12-06 23:38:14,116 INFO     Validation accuracy: 0.742222236096859
+2023-12-06 23:38:14,116 INFO     Training step 200 out of 10000; Epoch 0; Learning rate: 0.0002
+2023-12-06 23:49:30,989 INFO     Validation loss: 0.2223167848214507
+2023-12-06 23:49:30,990 INFO     Validation accuracy: 0.9044444489479065
+2023-12-06 23:49:30,990 INFO     Saving model checkpoint to weights/
+2023-12-06 23:49:31,017 INFO     Training step 200 out of 10000; Epoch 0; Learning rate: 0.0002
+2023-12-07 00:08:28,671 INFO     Validation loss: 0.1558555693179369
+2023-12-07 00:08:28,671 INFO     Validation accuracy: 0.9288888928294182
+2023-12-07 00:08:28,671 INFO     Saving model checkpoint to weights/
+2023-12-07 00:08:28,745 INFO     Training step 200 out of 10000; Epoch 0; Learning rate: 0.0002
+slurmstepd: error: *** JOB 52756334 ON della-r2c2n2 CANCELLED AT 2023-12-07T00:09:12 DUE TO TIME LIMIT ***
